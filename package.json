@@ -1,0 +1,26 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "Flashcard thingy",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonriddick/flashcard.git"
+  },
+  "keywords": [
+    "flashcards",
+    "cloze"
+  ],
+  "author": "Jon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonriddick/flashcard/issues"
+  },
+  "homepage": "https://github.com/jonriddick/flashcard#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
